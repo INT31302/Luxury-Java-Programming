@@ -6,6 +6,7 @@ class Word{
 	public String getKor() {return kor;}
 	public String getEng() {return eng;}
 }
+
 public class Update_OC {
 	private Vector<Word> v = new Vector<>();
 	private Scanner s = new Scanner(System.in);
