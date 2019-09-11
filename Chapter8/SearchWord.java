@@ -21,6 +21,7 @@ public class SearchWord {
 			e.printStackTrace();
 		}
 	}
+	
 	private void run() {
 		while(true) {
 			System.out.print("단어>>");
